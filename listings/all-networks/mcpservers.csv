@@ -1,6 +1,5 @@
 slug,provider,offer,actionButtons,serverType,hostingType,transportType,mcpEndpoint,authType,credentialKey,selfHostedCommand,selfHostedArgs,selfHostedRequiredEnvVars,x402,onChainWrite,agentSkills,tag,description,planType,planName,price,trial,starred
 1inch-mcp,,!offer:1inch-mcp,,,,,,,,,,,,,,,,,,,,
-alchemy-mcp-server,,!offer:alchemy-mcp-server,,,,,,,,,,,,,,,,,,,,
 base-docs-mcp,,!offer:base-docs-mcp,,,,,,,,,,,,,,,,,,,,
 beaconcha-in-docs-mcp,,!offer:beaconcha-in-docs-mcp,,,,,,,,,,,,,,,,,,,,
 berachain-docs-mcp,,!offer:berachain-docs-mcp,,,,,,,,,,,,,,,,,,,,
