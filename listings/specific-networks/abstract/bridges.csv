@@ -1,0 +1,6 @@
+slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,supportedChains,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,tag
+debridge-mainnet,,!offer:debridge,,mainnet,,,,,,,,,,,,,,,,,,
+jumper-mainnet,,!offer:jumper,,mainnet,,,,,,,,,,,,,,,,,,
+relay-mainnet,,!offer:relay,,mainnet,,,,,,,,,,,,,,,,,,
+stargate-mainnet,,!offer:stargate,,mainnet,,,,,,,,,,,,,,,,,,
+symbiosis-mainnet,,!offer:symbiosis,,mainnet,,,,,,,,,,,,,,,,,,
